@@ -1,0 +1,12 @@
+env/
+env313/
+
+captured_faces/
+
+.env
+
+__pycache__/
+*.pyc
+
+.vscode/
+.vs/
